@@ -26,6 +26,10 @@ public class UserDetailService implements UserDetailsService {
         if (user == null) {
             throw new UsernameNotFoundException(s);
         }
+        if(!user.getIs_active()) {
+            System.out.println("user is not active");
+            throw new UsernameNotFoundException(s);
+        }
         return new User(user.getUsername(),user.getPassword(),new ArrayList<>());
     }
 }

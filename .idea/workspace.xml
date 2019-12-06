@@ -4,28 +4,18 @@
     <list default="true" id="0e431926-2c01-46cc-9897-1edf41afe7ff" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/UserDetailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/UserDetailService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/config/SecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/controller/AnswerController.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/controller/QuestionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/controller/QuestionController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/model/Answer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/model/ApplicationUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/model/ApplicationUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/example/authtry/repository/AnswerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/UserDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/authtry/UserDetailService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/authtry/config/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/controller/AnswerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/authtry/controller/QuestionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/model/Answer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/model/ApplicationUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/authtry/model/ApplicationUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/authtry/repository/AnswerRepository.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +60,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/kiosk-service" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -144,26 +134,26 @@
       <screen x="0" y="27" width="1366" height="706" />
     </state>
     <state x="289" y="27" width="777" height="706" key="CommitChangelistDialog2/0.27.1366.706@0.27.1366.706" timestamp="1575452615282" />
-    <state x="466" y="137" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575604473252">
+    <state x="466" y="137" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575626656826">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state x="466" y="137" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.706@0.27.1366.706" timestamp="1575604473252" />
-    <state width="1320" height="131" key="GridCell.Tab.0.bottom" timestamp="1575623363141">
+    <state x="466" y="137" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.706@0.27.1366.706" timestamp="1575626656826" />
+    <state width="1320" height="229" key="GridCell.Tab.0.bottom" timestamp="1575630402068">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="131" key="GridCell.Tab.0.bottom/0.27.1366.706@0.27.1366.706" timestamp="1575623363141" />
-    <state width="1320" height="131" key="GridCell.Tab.0.center" timestamp="1575623363139">
+    <state width="1320" height="229" key="GridCell.Tab.0.bottom/0.27.1366.706@0.27.1366.706" timestamp="1575630402068" />
+    <state width="1320" height="229" key="GridCell.Tab.0.center" timestamp="1575630402066">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="131" key="GridCell.Tab.0.center/0.27.1366.706@0.27.1366.706" timestamp="1575623363139" />
-    <state width="1320" height="131" key="GridCell.Tab.0.left" timestamp="1575623363137">
+    <state width="1320" height="229" key="GridCell.Tab.0.center/0.27.1366.706@0.27.1366.706" timestamp="1575630402066" />
+    <state width="1320" height="229" key="GridCell.Tab.0.left" timestamp="1575630402065">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="131" key="GridCell.Tab.0.left/0.27.1366.706@0.27.1366.706" timestamp="1575623363137" />
-    <state width="1320" height="131" key="GridCell.Tab.0.right" timestamp="1575623363140">
+    <state width="1320" height="229" key="GridCell.Tab.0.left/0.27.1366.706@0.27.1366.706" timestamp="1575630402065" />
+    <state width="1320" height="229" key="GridCell.Tab.0.right" timestamp="1575630402066">
       <screen x="0" y="27" width="1366" height="706" />
     </state>
-    <state width="1320" height="131" key="GridCell.Tab.0.right/0.27.1366.706@0.27.1366.706" timestamp="1575623363140" />
+    <state width="1320" height="229" key="GridCell.Tab.0.right/0.27.1366.706@0.27.1366.706" timestamp="1575630402066" />
     <state width="1320" height="205" key="GridCell.Tab.1.bottom" timestamp="1575545203253">
       <screen x="0" y="27" width="1366" height="706" />
     </state>

@@ -31,7 +31,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .requestCache()
                 .requestCache(new NullRequestCache())
                 .and()
-                .logout().and()
+                .logout().logoutSuccessUrl("/").and()
                 .csrf().disable();
     }
     // @formatter:on
